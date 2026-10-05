@@ -2,7 +2,7 @@
 chcp 65001 >nul
 rem ==========================================================
 rem  WiFi 优化提速工具箱 / WiFi Optimizer Toolbox v1.0
-rem  Copyright (C) 2026  <your name here>
+rem  Copyright (C) 2026  Harry Lyu
 rem
 rem  This program is free software: you can redistribute it
 rem  and/or modify it under the terms of the GNU General Public
