@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""生成 WiFi优化提速工具箱.bat (UTF-8 编码, MAS 风格菜单, 中英双语可选)"""
+"""生成 WiFi优化提速工具箱.bat (UTF-8 编码, 交互式双语菜单)"""
 
 bat = r'''@echo off
 chcp 65001 >nul
